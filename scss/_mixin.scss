@@ -1,0 +1,10 @@
+@mixin dfCenter {
+    display: flex;
+    align-items: center;
+}
+
+@mixin dfSp-b {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
